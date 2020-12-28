@@ -1,7 +1,7 @@
 ## Multiplication-table
 A simple project that demonstrates an operation of multiplication of a pair of positive integers between 1 and 10, stored in a table.</br>
 
-##Technology stack
+**Technology stack**
 
 1\. Core PHP<br/>
 2\. MySQL<br/>
@@ -9,7 +9,7 @@ A simple project that demonstrates an operation of multiplication of a pair of p
 4\. CSS<br/>
 5\. Apache Web Server (with XAMPP)<br/>
 
-##Setup instructions
+**Setup instructions**
 
 1\. Copy the project folder to xampp/htdocs path. If you are using some other tool for Apache Web Server (like WAMP), please see the documentation for it.<br/>
 2\. Run **.sql** script.<br/>
